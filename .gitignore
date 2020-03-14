@@ -1,0 +1,18 @@
+#PyCharm
+.idea
+
+#Python
+__pycache__
+.pickle
+
+#Folder
+circstats
+pycircstats
+DATA
+
+#excel
+.xlsx
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
