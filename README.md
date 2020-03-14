@@ -1,5 +1,5 @@
 Author : Jérémie Tousignant
-years : 2017-2019
+Years : 2017-2019
 
 PyChoplo was design during my master degree in the gait lab of Laurent Ballaz. 
 
