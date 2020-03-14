@@ -1,9 +1,9 @@
 #PyCharm
-.idea
+*.idea
 
 #Python
 __pycache__
-.pickle
+*.pickle
 
 #Folder
 circstats
@@ -11,8 +11,10 @@ pycircstats
 DATA
 
 #excel
-.xlsx
+*.xlsx
+*.csv
+
 
 
 # Jupyter Notebook
-.ipynb_checkpoints
+*.ipynb_checkpoints
